@@ -1,6 +1,6 @@
 # Flow
 
-Flow is a music therapy app for Meta AI glasses. It watches what you're doing through the glasses camera, reads your stress level, and generates music that fits the moment — all in real time.
+Flow is a music therapy app for Meta AI glasses. It watches what you're doing through the glasses camera, reads your stress level, and generates music that fits the moment.
 
 Studying late at night? It'll make something calm and focused. Walking outside on a sunny day? Something brighter. The idea is that your music should respond to your life, not the other way around.
 
