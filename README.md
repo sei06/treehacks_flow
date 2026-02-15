@@ -96,7 +96,3 @@ Flow/
 - Suno API
 - Spotify Web API
 - AVFoundation
-
-## License
-
-See the [LICENSE](../../LICENSE) file in the root directory.
